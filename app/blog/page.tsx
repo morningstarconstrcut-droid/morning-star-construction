@@ -9,7 +9,7 @@ const blogPosts = [
     title: "Choosing the Right Roofing Material for Your House",
     description:
       "Learn how to pick the best roofing material for your home in Texas, balancing durability, cost, and style.",
-    image: "/roofMAT.jpg",
+    image: "/roofMat.jpg",
     slug: "roofing-material-guide",
   },
   {
