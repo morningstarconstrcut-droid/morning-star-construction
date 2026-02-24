@@ -96,7 +96,7 @@ const Navbar = () => {
         </div>
 
         {/* Mobile Hamburger */}
-        <div className="md:hidden flex items-center">
+        <div className="md:block flex items-center">
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
             className="text-white hover:text-yellow-500 transition text-2xl"
