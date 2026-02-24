@@ -155,6 +155,9 @@ const Navbar = () => {
               <Link href="/contact" className="hover:text-yellow-500 transition">
                 Contact
               </Link>
+              <Link href="/blog" className="hover:text-yellow-500 transition">
+                Blog
+              </Link>
             </div>
           </motion.div>
         )}
