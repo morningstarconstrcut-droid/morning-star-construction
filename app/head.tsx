@@ -8,17 +8,17 @@ export default function Head() {
         content="Morning Star Construction provides high-quality residential and commercial construction in Victoria, TX. Services include roofing, masonry, remodeling, and renovations with skilled tradesmen and honest pricing."
       />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="/dove.ico" />
 
       {/* Open Graph for social sharing */}
       <meta property="og:title" content="Morning Star Construction | Victoria TX" />
       <meta
         property="og:description"
-        content="Expert residential and commercial construction in Victoria, TX. Roofing, masonry, remodeling, and renovations done with quality and integrity."
+        content="Expert construction in Victoria, TX. Roofing, masonry, remodeling, and renovations done with quality and integrity."
       />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://www.yourdomain.com/" />
-      <meta property="og:image" content="/og-home.jpg" />
+      <meta property="og:url" content="https://morningstarconstructiontexas.com/" />
+      <meta property="og:image" content="/dove.ico" />
 
       {/* Twitter Card */}
       <meta name="twitter:card" content="summary_large_image" />
