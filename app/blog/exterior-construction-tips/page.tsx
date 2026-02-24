@@ -11,7 +11,7 @@ export default function ExteriorConstructionTips() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/exterior-construction.jpg"
+          src="/outside.jpg"
           alt="Exterior construction tips for Victoria TX homes"
           fill
           className="object-cover"

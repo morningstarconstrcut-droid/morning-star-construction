@@ -11,7 +11,7 @@ export default function FamilyOwnedConstruction() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/family-owned-construction.jpg"
+          src="/full.jpg"
           alt="Family-owned construction company benefits in Victoria TX"
           fill
           className="object-cover"

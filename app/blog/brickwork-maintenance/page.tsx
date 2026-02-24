@@ -11,7 +11,7 @@ export default function MaintainingBrickwork() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/brickwork-maintenance.jpg"
+          src="/wall.jpg"
           alt="Maintaining brickwork for long-lasting masonry in Victoria TX homes"
           fill
           className="object-cover"

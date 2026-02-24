@@ -11,7 +11,7 @@ export default function InteriorRenovationIdeas() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/interior-renovation.jpg"
+          src="/home.jpg"
           alt="Interior renovation ideas for Victoria TX homes"
           fill
           className="object-cover"

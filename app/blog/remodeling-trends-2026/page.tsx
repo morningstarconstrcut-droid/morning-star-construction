@@ -11,7 +11,7 @@ export default function RemodelingTrends2026() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/remodeling-trends-2026.jpg"
+          src="/yes.jpg"
           alt="Top home remodeling trends in 2026 for Victoria TX homes"
           fill
           className="object-cover"

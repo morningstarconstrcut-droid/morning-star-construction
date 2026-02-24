@@ -51,42 +51,42 @@ const blogPosts = [
     title: "DIY vs. Professional Renovation: What You Should Know",
     description:
       "Compare the pros and cons of DIY and hiring pros for your renovation projects.",
-    image: "/blog/diy-vs-pro.jpg",
+    image: "/kitchen.jpg",
     slug: "diy-vs-professional",
   },
   {
     title: "Supporting Local: Why Choosing a Family-Owned Construction Company Matters",
     description:
       "Learn the benefits of hiring local, family-owned construction businesses.",
-    image: "/blog/support-local.jpg",
+    image: "/full.jpg",
     slug: "support-local",
   },
   {
     title: "Seasonal Maintenance Tips for Texas Homes",
     description:
       "Seasonal checklists to keep your home safe, efficient, and looking great year-round.",
-    image: "/blog/seasonal.jpg",
+    image: "/camp.jpg",
     slug: "seasonal-maintenance",
   },
   {
     title: "Top 5 Home Remodeling Trends in 2026",
     description:
       "Stay ahead of the curve with the hottest remodeling trends for the year.",
-    image: "/blog/trends.jpg",
+    image: "/yes.jpg",
     slug: "remodeling-trends-2026",
   },
   {
     title: "Modern Roofing Materials That Boost Curb Appeal",
     description:
       "Enhance your home's look and durability with these modern roofing materials.",
-    image: "/blog/modern-roofing.jpg",
+    image: "/material.jpg",
     slug: "modern-roofing-materials",
   },
   {
     title: "Eco-Friendly Home Renovation Ideas",
     description:
       "Reduce environmental impact while improving your home with green renovation tips.",
-    image: "/blog/eco-renovation.jpg",
+    image: "/eco.jpg",
     slug: "eco-friendly-renovation",
   },
 ];

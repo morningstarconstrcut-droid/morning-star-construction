@@ -11,7 +11,7 @@ export default function SeasonalMaintenanceTips() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/seasonal-maintenance-texas.jpg"
+          src="/camp.jpg"
           alt="Seasonal home maintenance tips for Texas homes"
           fill
           className="object-cover"

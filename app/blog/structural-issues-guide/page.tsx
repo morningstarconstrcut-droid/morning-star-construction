@@ -11,7 +11,7 @@ export default function SpotStructuralIssues() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/structural-issues.jpg"
+          src="/rot.jpg"
           alt="Spot structural issues before they become costly in Victoria TX homes"
           fill
           className="object-cover"

@@ -11,7 +11,7 @@ export default function ModernRoofingMaterials() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/modern-roofing-materials.jpg"
+          src="/material.jpg"
           alt="Modern roofing materials for Victoria TX homes"
           fill
           className="object-cover"

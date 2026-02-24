@@ -11,7 +11,7 @@ export default function HomeRoofingProcess() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/roofing-process.jpg"
+          src="/roofStep.jpg"
           alt="Home roofing process for Victoria TX homeowners"
           fill
           className="object-cover"

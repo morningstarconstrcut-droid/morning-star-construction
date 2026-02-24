@@ -11,7 +11,7 @@ export default function EcoFriendlyRenovation() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/eco-friendly-renovation.jpg"
+          src="/eco.jpg"
           alt="Eco-friendly home renovation ideas for Victoria TX homes"
           fill
           className="object-cover"

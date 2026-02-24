@@ -11,7 +11,7 @@ export default function DiyVsProfessional() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/diy-vs-professional.jpg"
+          src="/kitchen.jpg"
           alt="DIY vs professional renovation guide"
           fill
           className="object-cover"

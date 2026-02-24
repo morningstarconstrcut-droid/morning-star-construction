@@ -11,7 +11,7 @@ export default function RoofingMaterialGuide() {
       {/* Hero Section */}
       <div className="relative h-[60vh] w-full">
         <Image
-          src="/blog/roofing.jpg"
+          src="/roofMat.jpg"
           alt="Roofing materials guide"
           fill
           className="object-cover"
