@@ -26,7 +26,7 @@ const Hero = () => {
   const opacity = useTransform(scrollY, [0, 400], [1, 0.3]); // text fade
 
   return (
-    <section className="relative h-screen flex items-center justify-center overflow-hidden">
+    <section className="relative min-h-[calc(100vh-64px)] pt-20 flex items-center justify-center overflow-hidden md:pt-0">
       
       {/* Background images */}
       <AnimatePresence>
