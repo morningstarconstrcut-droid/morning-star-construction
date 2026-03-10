@@ -8,6 +8,7 @@ import { useInView } from "react-intersection-observer";
 import { link } from "fs";
 import Link from "next/link";
 
+
 export default function Home() {
   const [refServices, inViewServices] = useInView({
     triggerOnce: true,
@@ -23,7 +24,7 @@ export default function Home() {
     <div className="font-sans bg-neutral-950 text-white">
       {/* Navbar */}
       <Navbar />
-
+      
       <Hero />
            {/* Trust Bar */}
       <section className="w-full bg-neutral-900 border-t border-b border-neutral-800">

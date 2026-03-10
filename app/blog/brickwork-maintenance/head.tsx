@@ -14,7 +14,7 @@ export default function MaintainingBrickworkHead() {
       <meta property="og:title" content="Maintaining Your Brickwork: Tips for Longevity | Morning Star Construction" />
       <meta property="og:description" content="Keep your brickwork in top condition with professional maintenance tips. Learn cleaning, tuckpointing, sealing, and inspection strategies for Victoria, TX homes." />
       <meta property="og:type" content="article" />
-      <meta property="og:url" content="https://www.morningstarconstruction.com/blog/maintaining-brickwork" />
+      <meta property="og:url" content="https://www.morningstarconstruction.com/blog/brickwork-maintenance" />
       <meta property="og:image" content="https://www.morningstarconstruction.com/blog/brickwork-maintenance.jpg" />
 
       {/* Twitter Card */}
