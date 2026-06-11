@@ -23,6 +23,7 @@ const Navbar = () => {
     { href: "/services/remodeling", label: "Remodeling / Renovations" },
     { href: "/services/Ext", label: "Exterior Construction" },
     { href: "/services/Int", label: "Interior Finishes" },
+    { href: "/services/Land&Lawn", label: "Landscaping and Lawndcare" },
   ];
 
   return (

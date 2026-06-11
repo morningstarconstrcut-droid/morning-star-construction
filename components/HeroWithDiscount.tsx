@@ -21,7 +21,7 @@ export default function HeroWithDiscount() {
             transition={{ duration: 0.8 }}
             className="bg-yellow-500 text-black font-bold px-6 py-2 rounded-full mb-4 shadow-lg"
           >
-            🎉 15% Off for First-Time Clients – Book Your Project Today!
+            Book Your Project Today!
           </motion.div>
 
           {/* Main Hero Text */}

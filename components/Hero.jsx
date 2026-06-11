@@ -65,7 +65,7 @@ const Hero = () => {
               transition={{ duration: 0.8 }}
               className="bg-yellow-500 text-black font-bold px-6 py-5 rounded-full mb-15 shadow-lg text-2xl hover:bg-yellow-600 transition"
             >
-              🎉 15% Off for First-Time Clients – Book Your Project Today!
+              Book Your Project Today!
             </motion.div>            
           </a>
 
