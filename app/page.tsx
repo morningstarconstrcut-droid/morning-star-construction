@@ -88,7 +88,7 @@ export default function Home() {
                 href: "/services/roofing",
               },
               {
-                title: "Masonry Conatrcator/ Bricklayer",
+                title: "Masonry Contractor/ Bricklayer",
                 desc: "Professional brick, stone, and concrete work including repairs, custom builds, and structural masonry. Skilled masonry services in Victoria, TX built for strength and long-term durability.",
                 href: "services/Masonry",
               },

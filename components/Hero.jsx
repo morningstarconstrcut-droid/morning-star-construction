@@ -71,7 +71,7 @@ const Hero = () => {
 
 
         <h1 className="text-5xl md:text-6xl font-bold text-white mb-8">
-          Morning Star Construction and remodeling in Victoria, Tx
+          Construction & Remodeling in Victoria, TX | Morning Star Construction
         </h1>
         <p className="text-xl text-gray-200 mb-6">
           Professional masonry, roofing, remodeling, and exterior construction built to last.

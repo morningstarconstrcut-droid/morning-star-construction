@@ -130,22 +130,22 @@ export default function RemodelingPage() {
           <div className="grid grid-cols-2 gap-4">
             <img
               src="/bath.jpg"
-              alt="Brickwork project"
+              alt="Bathroom renovation"
               className="rounded-2xl object-cover h-64 w-full"
             />
             <img
               src="/bath (2).jpg"
-              alt="Stone installation"
+              alt="Bathroom renovation"
               className="rounded-2xl object-cover h-64 w-full"
             />
             <img
               src="/bath3.jpg"
-              alt="Outdoor fireplace"
+              alt="Renovated bathroom with tiled shower"
               className="rounded-2xl object-cover h-64 w-full"
             />
             <img
               src="/bath4.jpg"
-              alt="Custom mailbox"
+              alt="Bathroom renovation"
               className="rounded-2xl object-cover h-64 w-full"
             />
           </div>
@@ -237,7 +237,7 @@ export default function RemodelingPage() {
                     },
                     {
                       q: "Can I stay in my home during the renovation?",
-                      a: "Tuckpointing is the process of removing damaged mortar and replacing it with new mortar to restore structural integrity. It is typically needed when mortar joints crack, crumble, or allow moisture intrusion. This process extends the life of your brickwork and prevents further damage."
+                      a: "In many cases, yes—it depends on the size and scope of your renovation. Smaller projects may allow you to stay at home, though you should expect some noise, dust, and disruption. For extensive renovations or work that affects essential utilities, temporarily moving out may be the safest and most comfortable option. We’ll discuss what to expect before work begins so you can plan ahead."
                     },
                     {
                       q: "How much does a home remodeling project cost in Victoria, TX?",

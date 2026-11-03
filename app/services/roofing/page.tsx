@@ -30,7 +30,7 @@ export default function RoofingPage() {
           className="relative z-20 max-w-4xl px-6"
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Residential Roofing Services in Victoria, TX
+           Roof Repair & Replacement in Victoria, TX
           </h1>
 
           <p className="text-lg md:text-xl mb-8 text-gray-200">
@@ -97,7 +97,7 @@ export default function RoofingPage() {
 
             <ul className="space-y-4 text-neutral-300 text-lg">
               <li className="flex gap-3">
-                <span className="text-amber-500">✔</span> Asphalt Schingle Roofing
+                <span className="text-amber-500">✔</span> Asphalt Shingle Roofing
               </li>
               <li className="flex gap-3">
                 <span className="text-amber-500">✔</span> Metal Roofing Installation
@@ -132,13 +132,13 @@ export default function RoofingPage() {
 
         </section>
         
-         {/* TYPES OF MASONRY SERVICES */}
+         {/* TYPES OF ROOFING SERVICES */}
       <section className="py-28 px-6 bg-black">
         <div className="max-w-7xl mx-auto">
           <div className="w-24 h-0.5 bg-yellow-500 mx-auto mb-10 opacity-60"></div>
 
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-6 tracking-tight">
-            Types of Masonry Services We Offer
+            Types of Roofing Services We Offer
           </h2>
 
           <p className="text-center text-neutral-400 mb-16 text-lg max-w-3xl mx-auto">
@@ -246,7 +246,7 @@ export default function RoofingPage() {
       >
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Protext Your Home with Quality Roofing?
+            Ready to Protect Your Home with Quality Roofing?
           </h2>
           <p className="text-lg mb-10">
             Contact Morning Star Construction for top-quality Roofing tailored to your project.
