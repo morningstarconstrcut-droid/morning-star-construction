@@ -66,7 +66,16 @@ const categories = [
 
 const focus = "focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-amber-400";
 
-function CategoryContent({ category }) {
+type GalleryCategory = {
+  image?: string;
+  alt?: string;
+  imagePosition?: React.CSSProperties["objectPosition"];
+  title: string;
+  description: string;
+  ready: boolean;
+};
+
+function CategoryContent({ category }: { category: GalleryCategory }) {
   return (
     <>
       <div className="aspect-4/3 overflow-hidden bg-neutral-800">
