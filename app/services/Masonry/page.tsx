@@ -116,6 +116,7 @@ const MasonryPage = () => {
               <li className="flex gap-3">
                 <span className="text-amber-500">✔</span> Stone and Block work
               </li>
+  
             </ul>
 
             <div className="mt-10">
@@ -133,6 +134,7 @@ const MasonryPage = () => {
             <img
               src="/kit.jpg"
               alt="Brickwork project"
+              loading="lazy"
               className="rounded-2xl object-cover h-64 w-full"
             />
             <img
@@ -147,7 +149,7 @@ const MasonryPage = () => {
             />
             <img
               src="/chimeny.jpg"
-              alt="Custom mailbox"
+              alt="Custom chimeny"
               className="rounded-2xl object-cover h-64 w-full"
             />
           </div>
@@ -173,7 +175,7 @@ const MasonryPage = () => {
             {[
               {
                 title: "Brick Intsallation",
-                desc: "Professional brick repair services including crack repair, mortar joint replacement,full brick restoration and custom brick mailboxes for residential in Victoria, Tx.",
+                desc: "New brickwork for residential projects in Victoria and surrounding areas. We discuss your layout, brick selection, and finish so the completed work complements your property.",
               },
               {
                 title: "Brick Repair and Restoration",
@@ -203,6 +205,7 @@ const MasonryPage = () => {
                 title: "Stone and Block work",
                 desc: "We provide professional stone and concrete block (CMU) installation for residential projects in Victoria, TX. From decorative stone accents and veneers to structural block walls and retaining walls, our masonry work is built for durability, precision, and long-term performance. Every project is constructed with proper reinforcement and weather resistance to withstand the Texas climate.",
               },
+           
             ].map((service, index) => (
               <div
                 key={index}

@@ -17,7 +17,7 @@ export default function Head() {
         content="Expert masonry and brickwork in Victoria, TX. Morning Star Construction delivers durable, high-quality brick, stone, and concrete work for residential and commercial projects."
       />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://www.yourdomain.com/masonry" />
+      <meta property="og:url" content="https://morningstarconstructiontexas.com/services/Masonry" />
       <meta property="og:image" content="/og-masonry.jpg" />
 
       {/* Twitter Card */}

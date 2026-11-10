@@ -29,6 +29,7 @@ const Navbar = () => {
   return (
     <nav className="w-full bg-black text-white fixed top-0 z-50 shadow-md left-0">
       <div className="max-w-8xl mx-auto flex justify-between items-center py-4 px-6 md:px-20">
+        
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-4">
           <Image
@@ -43,15 +44,23 @@ const Navbar = () => {
           </span>
         </Link>
 
+
         {/* Desktop Links */}
+
+
         <div className="hidden md:flex items-center space-x-10 text-xl">
+          
+
+
           {/* Services Dropdown */}
           <div className="relative flex items-center space-x-1">
             {/* Clicking text navigates */}
-            <Link href="/services" className="hover:text-yellow-500 transition">
+
+          <Link href="/services" className="hover:text-yellow-500 transition">
               Services
             </Link>
 
+            
             {/* Clicking arrow toggles dropdown */}
             <button
               onClick={() => setServicesOpen(!servicesOpen)}
@@ -85,6 +94,9 @@ const Navbar = () => {
           </div>
 
           {/* Other Links */}
+          <Link href="/Gallery" className="hover:text-yellow-500 transition">
+            
+          </Link>
           <Link href="/about" className="hover:text-yellow-500 transition">
             About Us
           </Link>

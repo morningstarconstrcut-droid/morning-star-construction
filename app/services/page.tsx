@@ -34,6 +34,12 @@ const services = [
       "Drywall, flooring, tile, trim, and detailed finishing work for a polished, professional look. Expert interior finishing services in Victoria, TX.",
       href: "/services/Int",
   },
+    {
+    title: "Tile Installation",
+    description:
+      "Tile flooring, backsplashes, showers, bathroom upgrades, and outdoor tile work, including repairs and regrouting. Expert tile services designed to enhance your home’s style and functionality in Victoria, TX.",
+      href: "/services/tile",
+  },
   
 ];
 

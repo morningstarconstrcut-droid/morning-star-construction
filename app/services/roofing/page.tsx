@@ -142,8 +142,8 @@ export default function RoofingPage() {
           </h2>
 
           <p className="text-center text-neutral-400 mb-16 text-lg max-w-3xl mx-auto">
-            We provide professional masonry and brickwork services in Victoria, TX and surrounding areas.
-            From structural brick walls to decorative stone veneer, our craftsmanship is built to last.
+            We provide professional Roofing services in Victoria, TX and surrounding areas.
+            
           </p>
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-10">
